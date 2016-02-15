@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Jon Siddle]]></title>
         <description><![CDATA[Jon Siddle]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/siddle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 17:36:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 18:00:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/siddle/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Jon Siddle - Bio</p>]]></description>
+            <link>https://thegrid.ai/siddle/cbb1b9a7-47c9-470c-b6fc-a82e5ba1c893/index.html</link>
+            <guid isPermaLink="false">cbb1b9a7-47c9-470c-b6fc-a82e5ba1c893</guid>
+            <pubDate>Mon, 15 Feb 2016 18:00:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18e87d5f-f2d1-4245-b7b7-2f7d7c247447.jpg">]]></description>
-            <link>undefined99cfaad0-913c-42f5-8bae-324f0dab5c54/index.html</link>
+            <link>https://thegrid.ai/siddle/99cfaad0-913c-42f5-8bae-324f0dab5c54/index.html</link>
             <guid isPermaLink="false">99cfaad0-913c-42f5-8bae-324f0dab5c54</guid>
             <pubDate>Mon, 15 Feb 2016 17:36:11 GMT</pubDate>
         </item>
