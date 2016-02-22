@@ -2,28 +2,35 @@
     <channel>
         <title><![CDATA[Freelance Musician. Cigar Blogger.]]></title>
         <description><![CDATA[Freelance Musician. Cigar Blogger.]]></description>
-        <link>http://www.jonsiddle.com/</link>
+        <link>http://jonsiddle.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 17:10:10 GMT</lastBuildDate>
-        <atom:link href="http://www.jonsiddle.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 17:24:49 GMT</lastBuildDate>
+        <atom:link href="http://jonsiddle.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/86a93e10-ed95-4a10-9a7d-8d2d939759a2.JPG">]]></description>
+            <link>http://jonsiddle.com/3c37e3a3-9378-49ec-b7db-f31a65a68ec9/index.html</link>
+            <guid isPermaLink="false">3c37e3a3-9378-49ec-b7db-f31a65a68ec9</guid>
+            <pubDate>Mon, 22 Feb 2016 17:23:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f60fa55e-54e0-4622-b153-c91db957daf4.jpg">]]></description>
-            <link>http://www.jonsiddle.com/cbb1b9a7-47c9-470c-b6fc-a82e5ba1c893/index.html</link>
+            <link>http://jonsiddle.com/cbb1b9a7-47c9-470c-b6fc-a82e5ba1c893/index.html</link>
             <guid isPermaLink="false">cbb1b9a7-47c9-470c-b6fc-a82e5ba1c893</guid>
             <pubDate>Mon, 22 Feb 2016 17:09:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e550d6e8-f2fb-4fc1-bbab-c0f46c677c7f.jpg">]]></description>
-            <link>http://www.jonsiddle.com/fbc7f933-dc97-408b-a612-688fc47a157f/index.html</link>
+            <link>http://jonsiddle.com/fbc7f933-dc97-408b-a612-688fc47a157f/index.html</link>
             <guid isPermaLink="false">fbc7f933-dc97-408b-a612-688fc47a157f</guid>
             <pubDate>Mon, 15 Feb 2016 20:54:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18e87d5f-f2d1-4245-b7b7-2f7d7c247447.jpg">]]></description>
-            <link>http://www.jonsiddle.com/99cfaad0-913c-42f5-8bae-324f0dab5c54/index.html</link>
+            <link>http://jonsiddle.com/99cfaad0-913c-42f5-8bae-324f0dab5c54/index.html</link>
             <guid isPermaLink="false">99cfaad0-913c-42f5-8bae-324f0dab5c54</guid>
             <pubDate>Mon, 15 Feb 2016 17:36:11 GMT</pubDate>
         </item>
