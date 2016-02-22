@@ -1,41 +1,41 @@
-name: Jon Siddle
-favicon: null
-layout_spectrum: 0.63068
-typography_spectrum: 0.2087
+title: Freelance Musician. Cigar Blogger.
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: Freelance Musician. Cigar Blogger.
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.6740065
+  brandStrength: 0.3800432702992111
+  lightness: 0.4602578
   brandColors:
     - '#fefefc'
     - '#1a171a'
     - '#654127'
     - '#d0bc96'
     - '#9a8b6c'
-  brandStrength: 0.3800432702992111
-  lightness: 0.4763752173166722
-  saturation: 0.7078206459991634
-  rhythmicContrast: 0.9348654109053314
-purpose: []
+  rhythmicContrast: 0.7996778
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Jon Siddle
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.2087
+layout_spectrum: 0.63068
