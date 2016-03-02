@@ -1,6 +1,6 @@
 name: Jon Siddle
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.06634
 typography_spectrum: 0.2087
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#3d3b49'
     - '#bfb1c2'
     - '#9f8c99'
-  brandStrength: 0.875
+  brandStrength: 0.5
   lightness: 0.4375
-  saturation: 0.75
-  rhythmicContrast: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
